@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+.trash/
+.DS_Store
+
+# OS
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
