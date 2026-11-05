@@ -1,4 +1,4 @@
-![[Screenshot 2026-11-05 at 16.43.58.png]]# Brain networks
+![[Screenshot 2026-11-05 at 17.12.56.png]]![[Screenshot 2026-11-05 at 17.12.50.png]]![[Screenshot 2026-11-05 at 16.43.58.png]]# Brain networks
 - we can study real brain connectivity with network theory.
 - A description of a brain as a network is a connectome.
 
@@ -41,3 +41,19 @@ For now, no weights, and symmetric (undirected) networks, no self connections `A
 ![[Screenshot 2026-11-05 at 17.03.29.png]]
 ![[Screenshot 2026-11-05 at 17.03.48.png]]
 gamma is clustering coefficient, lambda is path length.
+
+## Watts-strogatz procedure
+- how to build a small world network:
+- 1: build ring lattice, set of nodes arranged in a cinrcle, each connected to all its neighbours at most k/2 nodes away.![[Screenshot 2026-11-05 at 17.05.22.png]]
+- 2. rewire some of the connections of ring lattice with probability p.
+	- by deleting `A(i,j)`, then adding randomly an edge `A(h,j)`, avoiding self connections and duplicate edges.![[Screenshot 2026-11-05 at 17.07.39.png]]
+	- few random shortcuts are enough to make lattice small world.
+
+## Real networks are small world
+- measured C.elegans worm, 282 neurons. this is small world network.
+- Fruit fry brain is small world asw.
+
+## Efficiency
+how efficient information can propagate through a network
+Global:![[Screenshot 2026-11-05 at 17.13.02.png]]
+n(n - 1) ordered pairs. -1 
