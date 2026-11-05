@@ -6,6 +6,7 @@ an artificial neuron computes a weighted sum of inputs xi, and passes it through
 - State - none vs a lot
 - Inputs - weighted sum vs dendritic tree.
 - Connections - Any sign, vs excitatory or inhibitory
+- f-I curve, frequency current curve, plots how fast a neuron fires again the strength of a constant current fed into it.
 - ![[Screenshot 2026-10-27 at 16.38.54.png]]
 
 ## Complexity of single neuron

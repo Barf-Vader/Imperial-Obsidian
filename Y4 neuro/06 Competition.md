@@ -15,3 +15,8 @@ Neurons inhibit their neighbours. lateral inhibition. red arrow with circle is i
 - for this to work neurons must recover quickly after a spike. a = 0.2 for all neurons instead of 0.02, which is unrealistic. because it has to keep firing to suppress
 
 ## Spiking networks (how real neurons communicate, with spikes)
+- hard to analyse, so we consider the population as a whole.
+- r(t) is fraction of population's neurons that fire in a short time window `τ` around t.
+- from one `τ` to the next:
+	- neurons that firing now become refractory: -r(t)
+	- neurons firing next are driven by input: on avg f(I), the F-I curve f(.).![[Screenshot 2026-11-05 at 14.53.10.png]]
