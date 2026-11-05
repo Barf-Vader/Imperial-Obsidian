@@ -44,4 +44,14 @@ A state that the system moves towards from all nearby states. Set of states whic
 - Hopefield networkes store many memories as attractors in the same way.
 
 ### Decision making
-- Classic task - net motion of cloud of dots left or right.
+- Classic task - net motion of cloud of dots left or right. Only a fraction of dots (coherence) move together, rest moves randomly.
+- Press key to report direction. lower coherence, more mistakes and slower.
+- Simulating with our model:
+	- fewer neurons, neither competitors dominate for long.
+	- sustained victory needs enough ongoing inhibitory firing to shut out rival.
+	- firing is stochastic, and the fewer the neurons the larger the fluctuations.
+	- in small network, inhibition sometimes dips far enough for the rival to start firing, and winner can swap over.
+	- identical input, then winner swaps irregularly.
+
+### Psychometric curve
+- Probability of a choice as a function of strength of the evidence for it, typically S-shaped curve.
