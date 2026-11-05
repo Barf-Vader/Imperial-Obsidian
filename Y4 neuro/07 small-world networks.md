@@ -55,5 +55,23 @@ gamma is clustering coefficient, lambda is path length.
 
 ## Efficiency
 how efficient information can propagate through a network
-Global:![[Screenshot 2026-11-05 at 17.13.02.png]]
-n(n - 1) ordered pairs. -1 
+#### Global:![[Screenshot 2026-11-05 at 17.13.02.png]]
+n(n - 1) ordered pairs. -1 for self connections.
+#### Local:
+Gi is subnetwork, find global efficient of subgraph.![[Screenshot 2026-11-05 at 17.15.20.png]]
+
+Global kind of like path length
+Local kind of like clustering coefficient.![[Screenshot 2026-11-05 at 17.16.43.png]]
+
+## Growing networks
+real networks grow. 
+- growth model is simple rule of how each new node connects to existing network.
+
+### Preferential attachment
+- rich get richer.
+- Add nodes one at a time, connecting to m existing nodes, chosen with probability proportional to their degree.
+- result: few highly connected nodes, and many with only one of two connections.
+- scale-free network - degree distribution follows a power law.
+
+### Growing by pruning
+- pruning fast at first, and then slows. decreasing rate builds networks that are more efficient and robust
