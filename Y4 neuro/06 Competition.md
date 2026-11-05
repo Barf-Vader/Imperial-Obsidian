@@ -13,3 +13,5 @@ Neurons inhibit their neighbours. lateral inhibition. red arrow with circle is i
 - **bistable** - one competitor is active, other is silent. two stable states. both being active is unstable.
 - ![[Screenshot 2026-11-03 at 17.25.55.png]]
 - for this to work neurons must recover quickly after a spike. a = 0.2 for all neurons instead of 0.02, which is unrealistic. because it has to keep firing to suppress
+
+## Spiking networks (how real neurons communicate, with spikes)
