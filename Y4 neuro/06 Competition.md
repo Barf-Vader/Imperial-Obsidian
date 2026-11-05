@@ -20,3 +20,11 @@ Neurons inhibit their neighbours. lateral inhibition. red arrow with circle is i
 - from one `τ` to the next:
 	- neurons that firing now become refractory: -r(t)
 	- neurons firing next are driven by input: on avg f(I), the F-I curve f(.).![[Screenshot 2026-11-05 at 14.53.10.png]]
+![[Screenshot 2026-11-05 at 15.04.09.png]]
+Note here, we are assuming `τ` is equaivalent to recovery period.![[Screenshot 2026-11-05 at 15.05.58.png]]
+- smoothness - how noisy, or how heterogeneous the population is.
+- for now, any curve with roughly the same shape will do - sigmoid function.
+- ![[Pasted image 20261105150929.png]]
+- Note that inhibition from competing populations add negative current to the total current given to a population.
+- ![[Screenshot 2026-11-05 at 15.12.42.png]]
+- Strong inhibition - stable fixed point splits into two.
