@@ -36,3 +36,12 @@ A state that the system moves towards from all nearby states. Set of states whic
 - ![[Pasted image 20261105152854.png]]
 - note to get the first equation, we subtract the two equations above. then use taylor expansion.
 - **Pitchfork bifurcation** - as w crosses wc, one fixed point splits into three.
+- We can think of this activity as a ball in a landscape.![[Screenshot 2026-11-05 at 15.46.04.png]]
+
+#### self-exicitation
+- we add `α`, self-excitation within each population:
+- ![[Screenshot 2026-11-05 at 15.48.33.png]]
+- Hopefield networkes store many memories as attractors in the same way.
+
+### Decision making
+- Classic task - net motion of cloud of dots left or right.
