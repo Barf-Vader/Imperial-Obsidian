@@ -28,5 +28,11 @@ Note here, we are assuming `τ` is equaivalent to recovery period.![[Screenshot 
 - Note that inhibition from competing populations add negative current to the total current given to a population.
 - ![[Screenshot 2026-11-05 at 15.12.42.png]]
 - Strong inhibition - stable fixed point splits into two.
+- Weak inhibition - not strong enough to kill one population.
 
 ## Attractors
+A state that the system moves towards from all nearby states. Set of states which ends up there is called the **basin of attraction**.
+- with strong inhibition, each winner is an attractor.
+- ![[Pasted image 20261105152854.png]]
+- note to get the first equation, we subtract the two equations above. then use taylor expansion.
+- **Pitchfork bifurcation** - as w crosses wc, one fixed point splits into three.
