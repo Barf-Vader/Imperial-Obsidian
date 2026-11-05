@@ -55,3 +55,10 @@ A state that the system moves towards from all nearby states. Set of states whic
 
 ### Psychometric curve
 - Probability of a choice as a function of strength of the evidence for it, typically S-shaped curve.
+![[Screenshot 2026-11-05 at 16.04.21.png]]
+larger temp, meaning takes more stimuli to make decision.
+
+### reaction time
+- first moment one population wins.
+- The harder the choice the slower the decision.![[Screenshot 2026-11-05 at 16.13.24.png]]
+- Same as humans.
