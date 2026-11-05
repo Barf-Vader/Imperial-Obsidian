@@ -28,3 +28,5 @@ Note here, we are assuming `τ` is equaivalent to recovery period.![[Screenshot 
 - Note that inhibition from competing populations add negative current to the total current given to a population.
 - ![[Screenshot 2026-11-05 at 15.12.42.png]]
 - Strong inhibition - stable fixed point splits into two.
+
+## Attractors
