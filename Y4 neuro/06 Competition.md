@@ -62,3 +62,16 @@ larger temp, meaning takes more stimuli to make decision.
 - first moment one population wins.
 - The harder the choice the slower the decision.![[Screenshot 2026-11-05 at 16.13.24.png]]
 - Same as humans.
+![[Screenshot 2026-11-05 at 16.15.10.png]]
+we do the same to braitenberg vehicles. note a population is usually defined as a group of same type of neurons, therefore we need two groups of inhibitory neurons, because motor neurons are excitatory neurons.
+### In AI:
+- psychometric curve plays the role of a softmax function.
+
+## Periodic effect
+- to obtain WTA, we used a high a. if we keep usual values of a for excitatory and inhibitory neurons, we get oscillatory behaviour. neither competotor can win. one population fires when the other one doesn't.
+
+### Binocular rivalry
+- examples on sensory side. 
+- each eye is shown different image, two competes.
+- we might expect people to see a blend of two images.
+- however, most report one image dominates, switches between the two. just like oscillation.
