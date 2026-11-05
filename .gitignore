@@ -13,3 +13,7 @@
 # Temporary files
 *.tmp
 *.bak
+
+# Claude / Claudian (chat sessions, local settings)
+.claude/
+.claudian/
