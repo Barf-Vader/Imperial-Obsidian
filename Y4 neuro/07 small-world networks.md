@@ -1,4 +1,4 @@
-# Brain networks
+![[Screenshot 2026-11-05 at 16.43.58.png]]# Brain networks
 - we can study real brain connectivity with network theory.
 - A description of a brain as a network is a connectome.
 
@@ -11,4 +11,8 @@ DTI diffusion imaging lets us build atlas of white matter tracts of human brain.
 ### functional connectomes.
 - nodes are same, but two nodes joined by edge if regions are co-active, while subject performs a task or is at rest.
 - Independent component analysis ICA of resting state fMRI data reveals **resting-state networks.**
-	- Default Mode network is a
+	- Default Mode network is active when subject is resting
+		- Everything about myself goes on this.
+	- Cognitive control network is active when subject is engaged in a task that demands attention.
+### Network
+A network G = <V,E>, set of nodes V, set of E VxV edges.
