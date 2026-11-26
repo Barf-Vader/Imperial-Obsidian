@@ -46,5 +46,12 @@ Both are modular, but right one, the connections between modules only involve a 
 ![[Screenshot 2026-11-26 at 20.39.59.png]]
 Pi = 0 if all of i's edges in one community, and grows if they spread across more communities.
 Node i is connector hub if:
-- degree ki is above the mean degrees plus one standard deviation
+- degree ki is above the mean degree (including within community) plus one standard deviation
 - participation index Pi is above a threshold (usually 0.3)
+
+### Connective core - connector hubs of a modular network, together with connections between them.
+- Human brain is modular, has hubs, and is a rich club - they are more densely connected to each other than their high degrees alone would predict.
+- Birds also have connective core. (good theory not just apply to humans)
+
+# Hierarchical modularity:
+![[Screenshot 2026-11-26 at 20.48.42.png]]
