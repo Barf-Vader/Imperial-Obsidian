@@ -50,4 +50,17 @@ They can come apart, at p = 0. network segregated yet ordered.
 ## Neural code
 - neurons must somehow carry and operate on information about the external world.
 - Rate coding, temporal coding, population coding
-- Whateer
+- Whatever the code, we need a way to measure information
+
+Information operates on probability distributions
+Events which are very surprising contain a lot of information.![[Screenshot 2026-11-26 at 22.31.46.png]]
+Let a variable X take states x in a set X. This could be any informational state of the system. 
+
+Entropy H is the average surprise over all the states, weighted by how often each one happens. That's probably your second screenshot:
+![[Screenshot 2026-11-26 at 22.32.55.png]]
+
+#### Why?
+- System with entropy H is as unpredictable as one that visits 2^H states equally often. H is a system's effective number of states. Measures the size of a system's dynamical repertoire![[Screenshot 2026-11-26 at 22.34.30.png]]
+
+
+Optimal neural transmission, neurons are extremely close to optimal. 98%.
