@@ -1,4 +1,5 @@
-![[Screenshot 2026-11-05 at 17.12.56.png]]![[Screenshot 2026-11-05 at 17.12.50.png]]![[Screenshot 2026-11-05 at 16.43.58.png]]# Brain networks
+![[Screenshot 2026-11-05 at 17.12.56.png]]![[Screenshot 2026-11-05 at 17.12.50.png]]
+# Brain networks
 - we can study real brain connectivity with network theory.
 - A description of a brain as a network is a connectome.
 

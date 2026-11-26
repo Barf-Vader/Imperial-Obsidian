@@ -16,5 +16,20 @@ for n nodes and m edges and C communities.
 ## Measuring modularty
 
 ## Q - Fraction of edges within communities minus expected fraction by chance
-- number of nodes
+- number of nodes,
+- k is the degree of node (number of connections)
+
 ![[Screenshot 2026-11-26 at 19.50.59.png]]
+
+In maths:
+![[Screenshot 2026-11-26 at 19.56.15.png]]
+
+Q is at most 1, and can be negative (when there are fewer edges within the communities than expected by chance)
+
+### NOTE:
+Q is defined for given partition - if we know communities in advance, q is easy to compute.
+Otherwise, modularity of network is the maximum value of Q over all possible partitions
+NP-Hard. Many differnt partitions often have almost the same Q.
+In practice, we can use fast heuristics, such as Louvain algorithm
+
+![[Screenshot 2026-11-26 at 20.01.15.png]]
