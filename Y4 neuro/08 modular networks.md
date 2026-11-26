@@ -12,3 +12,9 @@ for n nodes and m edges and C communities.
 - The connectivity matrix of network with 6 modules, 20 nodes, p=0.2
 - ONLY because we ordered it by module
 ![[Screenshot 2026-11-26 at 19.40.42.png]]
+
+## Measuring modularty
+
+## Q - Fraction of edges within communities minus expected fraction by chance
+- number of nodes
+![[Screenshot 2026-11-26 at 19.50.59.png]]
