@@ -17,3 +17,14 @@ Modular neurons setup:
 - Each module has 1000 random one-way excitatory to excitatory connections![[Screenshot 2026-11-26 at 21.36.28.png]]
 ![[Screenshot 2026-11-26 at 21.38.00.png]]
 ![[Screenshot 2026-11-26 at 21.40.03.png]]![[Screenshot 2026-11-26 at 21.44.30.png]]
+
+Where between p=0 and p=1 is most interesting?
+
+### Dynamical complexity
+ - system is dynamically complex if its parts are both segregated (each does something different) and integrated (act together as whole).
+ - Complexity is not a property of any single neuron or module, but of how the parts relate to each other and to the whole.
+ - Too integrated: every part does the same thing, so the whole is no richer than one part. 
+ - Too segregated: every pat does its own thing, so the whole is just the sum of its parts
+
+## Criticality
+- system is critical when it sits at a critical point. value of a control parameter where its behaviour changes qualitatively.
