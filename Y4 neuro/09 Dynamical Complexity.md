@@ -28,3 +28,10 @@ Where between p=0 and p=1 is most interesting?
 
 ## Criticality
 - system is critical when it sits at a critical point. value of a control parameter where its behaviour changes qualitatively.
+- In large systems, critical point is often phase transition between order and disorder.
+- Critical systems are characterised by occasional very large events, often distributed as a power law.
+- If systems statistics follow a power law, it may be at criticality.![[Screenshot 2026-11-26 at 22.17.24.png]]
+
+### Model of avalanches
+![[Screenshot 2026-11-26 at 22.18.27.png]]
+sigma = 1, critical point.
