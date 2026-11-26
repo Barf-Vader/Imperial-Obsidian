@@ -16,3 +16,4 @@ Modular neurons setup:
 - Eight modules of 100 excitatory neurons each, plus pool of 200 inhibitory neurons.
 - Each module has 1000 random one-way excitatory to excitatory connections![[Screenshot 2026-11-26 at 21.36.28.png]]
 ![[Screenshot 2026-11-26 at 21.38.00.png]]
+![[Screenshot 2026-11-26 at 21.40.03.png]]![[Screenshot 2026-11-26 at 21.44.30.png]]
