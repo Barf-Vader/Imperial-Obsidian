@@ -32,3 +32,19 @@ Space shapes the shape of the networks, take the london underground for example.
 ## Gen model
 - brain regions stay fixed and edges are added one at a time.
 - new edge i and j with p: ![[Screenshot 2026-11-26 at 20.31.58.png]]![[Screenshot 2026-11-26 at 20.32.29.png]]
+
+### Homophily
+- closes triangles - more clustering, sharper modules and hubs.
+- Human functional connectomes.
+- We can use this to build 
+- parameters reproduce altered brain connectivity under neuropsychiatric conditions.
+- RNNs, we can penalise by it length of connection. makes RNN more modular and small world, and causes **functional segregation** - each sector does a function
+
+## Hub nodes
+Both are modular, but right one, the connections between modules only involve a small number of nodes.
+![[Screenshot 2026-11-26 at 20.39.15.png]]
+![[Screenshot 2026-11-26 at 20.39.59.png]]
+Pi = 0 if all of i's edges in one community, and grows if they spread across more communities.
+Node i is connector hub if:
+- degree ki is above the mean degrees plus one standard deviation
+- participation index Pi is above a threshold (usually 0.3)
