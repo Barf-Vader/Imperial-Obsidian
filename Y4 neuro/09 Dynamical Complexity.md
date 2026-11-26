@@ -35,3 +35,19 @@ Where between p=0 and p=1 is most interesting?
 ### Model of avalanches
 ![[Screenshot 2026-11-26 at 22.18.27.png]]
 sigma = 1, critical point.
+![[Screenshot 2026-11-26 at 22.19.35.png]]
+Note power law.
+
+-3/2
+
+An avalanche is run of consecutive frames with activity, between empty frames. size is total number of activations.
+
+## Criticality and complexity
+Criticality: order vs disorder, along a control parameter.
+Complexity: segregation vs integration.
+They can come apart, at p = 0. network segregated yet ordered.
+
+## Neural code
+- neurons must somehow carry and operate on information about the external world.
+- Rate coding, temporal coding, population coding
+- Whateer
