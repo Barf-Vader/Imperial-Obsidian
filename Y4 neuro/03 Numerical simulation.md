@@ -18,3 +18,10 @@ Smaller step size. closer we get to the exact solution.
 given y(t), we can approximate the value of y(t + dt) using 4th order RK by computing:
 ![[Screenshot 2026-11-02 at 14.19.26.png]]
 
+Space shapes the shape of the networks, take the london underground for example.
+
+## Spatial embedding
+- Real networks are spatially embedded - nodes have positions, and their positions influence how they connect.
+- Ring lattice of Watts Strogatz procedure is one kind of spacial embedding but only one direction.
+- We can place nodes on 2D place, and make probability of connection decrease with distance. Not good model for whole brain connectivity but good for a small patch of cortex.
+- Place n node at random positions.

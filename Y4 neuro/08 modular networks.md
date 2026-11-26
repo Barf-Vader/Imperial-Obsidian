@@ -33,3 +33,5 @@ NP-Hard. Many differnt partitions often have almost the same Q.
 In practice, we can use fast heuristics, such as Louvain algorithm
 
 ![[Screenshot 2026-11-26 at 20.01.15.png]]
+Small world index is undefined for mostly disconnected networks because path length is undefined.
+
