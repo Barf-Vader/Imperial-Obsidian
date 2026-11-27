@@ -33,3 +33,4 @@ Consider this. each system is eight communities, each with 32 identical phase la
 
 ## Metastability
 - Chimera states do not stay put - they come and go in irregular patterns. networks lingers in one pattern, then moves to next. This is metastability.![[Screenshot 2026-11-27 at 17.48.16.png]]
+The synchrony is the order parameter, where 1 is perfect sync and 0 is completely scattered.
