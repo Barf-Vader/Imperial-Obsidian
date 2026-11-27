@@ -64,3 +64,5 @@ Entropy H is the average surprise over all the states, weighted by how often eac
 
 
 Optimal neural transmission, neurons are extremely close to optimal. 98%. Neurons use a lot of different responses, equally as often, therefore using its capacity very efficiently. 
+
+Information sharing grows with consciousness.
