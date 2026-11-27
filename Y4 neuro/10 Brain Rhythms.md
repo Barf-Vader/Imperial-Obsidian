@@ -54,3 +54,6 @@ Rhythms of different frequencies interact. In phase-amplitude coupling, the phas
 
 ![[Screenshot 2026-11-27 at 16.53.50.png]]
 **Theta-gamma coupling** - prominent in the hippocampus: gamma bursts ride on the peaks of theta.
+### Working memory
+- holds a few items in mind for a few seconds![[Screenshot 2026-11-27 at 17.02.40.png]]
+- Each gamma peak is an item, and each theta cycle is a repeat, like a playlist repeating the items.
