@@ -63,4 +63,4 @@ Entropy H is the average surprise over all the states, weighted by how often eac
 - System with entropy H is as unpredictable as one that visits 2^H states equally often. H is a system's effective number of states. Measures the size of a system's dynamical repertoire![[Screenshot 2026-11-26 at 22.34.30.png]]
 
 
-Optimal neural transmission, neurons are extremely close to optimal. 98%.
+Optimal neural transmission, neurons are extremely close to optimal. 98%. Neurons use a lot of different responses, equally as often, therefore using its capacity very efficiently. 
