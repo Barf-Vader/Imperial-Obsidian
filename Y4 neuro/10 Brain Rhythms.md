@@ -45,4 +45,12 @@ Bottom graph is phase.
  PLV, vs the weight of the coupling synapses. beyond a threshold the populations lock.
 
 ## What are rhythms for?
-Communication through coherence. Changing which populations are in phase changes weho 
+Communication through coherence. Changing which populations are in phase changes who talks to whom.
+- set of synchronised populations called a **coalition**.
+- Attention routes information
+
+## Rhythms within rhythms. 
+Rhythms of different frequencies interact. In phase-amplitude coupling, the phase of a slow rhythm sets the amplitude of a fast one.
+
+![[Screenshot 2026-11-27 at 16.53.50.png]]
+**Theta-gamma coupling** - prominent in the hippocampus: gamma bursts ride on the peaks of theta.
