@@ -17,3 +17,12 @@
 - Two limits of Fourier transform
 	- Resolution: frequencies are Fs/N = 1/T apart
 	- Nyquist: the highest frequency we can see is Fs/2
+- PING spectrum - sharp peak at 38Hz, and smaller peak twice the frequency called harmonic.
+![[Screenshot 2026-11-27 at 15.34.51.png]]
+
+The peaks couple.
+
+## Phase
+- The phase of an oscillation says where in its cycle it is at time t. its an angle between - pi and pi.
+- Signal x(t) is the shadow of an arrow that rotates. It's length is the amplitude A(t) and its angle the phase.
+- We only see the shadow `Acos(theta)`
