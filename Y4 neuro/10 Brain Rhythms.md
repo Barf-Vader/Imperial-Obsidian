@@ -39,6 +39,10 @@ Bottom graph is phase.
 ### PLV visualisation
 
 - if they bunch together, phi around 1, otherwise its around 0.
-
-
 ![[Screenshot 2026-11-27 at 16.23.02.png]]
+
+ ![[Screenshot 2026-11-27 at 16.44.06.png]]
+ PLV, vs the weight of the coupling synapses. beyond a threshold the populations lock.
+
+## What are rhythms for?
+Communication through coherence. Changing which populations are in phase changes weho 
