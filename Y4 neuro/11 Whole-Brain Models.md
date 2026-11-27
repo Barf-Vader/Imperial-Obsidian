@@ -20,5 +20,8 @@ Closed loop in state space that nearby trajectories approach. Whatever the start
 
 ## Kuramoto oscillators
 ![[Screenshot 2026-11-27 at 17.28.04.png]]
-The simplest model for coupled oscillators is juramoto model
-The only thing 
+The simplest model for coupled oscillators is kuramoto model
+The only thing which changes when a system is on a limit cycle is the phase![[Screenshot 2026-11-27 at 17.31.03.png]]
+Used to calculate the rate of change of an oscillator in a network of oscillators, where each one is trying to pull neighbouring oscillators to its phase.
+
+## Chimeras and Metastability
