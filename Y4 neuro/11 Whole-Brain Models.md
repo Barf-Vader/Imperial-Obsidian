@@ -25,3 +25,11 @@ The only thing which changes when a system is on a limit cycle is the phase![[Sc
 Used to calculate the rate of change of an oscillator in a network of oscillators, where each one is trying to pull neighbouring oscillators to its phase.
 
 ## Chimeras and Metastability
+![[Screenshot 2026-11-27 at 17.39.43.png]]
+Consider this. each system is eight communities, each with 32 identical phase lagged kuramoto oscillators. All to all connectivity within each community. this a modular small world network. Each oscillator has 32 connections to other communities, chosen at random and slightly weaker.
+
+- In real brains synchronisation waxes and wanes over time.
+- The coexistence of order and disorder in a system of identical parts is called a chimera state.
+
+## Metastability
+- Chimera states do not stay put - they come and go in irregular patterns. networks lingers in one pattern, then moves to next. This is metastability.![[Screenshot 2026-11-27 at 17.48.16.png]]
