@@ -32,3 +32,13 @@ The peaks couple.
 
 ## Phase Locking Value PLV![[Screenshot 2026-11-27 at 15.54.00.png]]
 ![[Screenshot 2026-11-27 at 15.55.09.png]]
+We first subtract the mean and band-pass filter around the rhythm of interest, because we need one dominant rhythm.
+
+Bottom graph is phase.
+![[Screenshot 2026-11-27 at 16.20.37.png]]
+### PLV visualisation
+
+- if they bunch together, phi around 1, otherwise its around 0.
+
+
+![[Screenshot 2026-11-27 at 16.23.02.png]]
