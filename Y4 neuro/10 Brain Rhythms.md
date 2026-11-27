@@ -31,3 +31,4 @@ The peaks couple.
 - If two PING populations are synced the phase diff stays constant.
 
 ## Phase Locking Value PLV![[Screenshot 2026-11-27 at 15.54.00.png]]
+![[Screenshot 2026-11-27 at 15.55.09.png]]
